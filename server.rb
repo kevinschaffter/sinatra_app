@@ -18,7 +18,7 @@ get '/' do
 
   @i = 1
 
-  erb :thing
+  erb :craigslist_scrubber
 
 end
 
